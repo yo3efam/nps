@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: notifsdk
+Version: 0.0.5
+Summary: "Python HacTech Notification Service SDK"
+Home-page: https://pedramcode.net
+Author: Pedram Dehghanpour
+Author-email: dev.dehghanpour@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Notifpal Python SDK
+
+This project is an interface for connecting to Notifpal service via python back-end projects.
